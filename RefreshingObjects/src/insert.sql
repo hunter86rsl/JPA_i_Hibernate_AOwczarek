@@ -1,0 +1,1 @@
+insert into employee(id, firstName, lastName, salary) values (1,'Jan', 'Nowak', 1000.0);
